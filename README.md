@@ -1,3 +1,4 @@
+Hello, Here we i am sharing basic auth. (Spring Security). when we have added dependecny in pom.xml then we are going to access out api. it will restrict to the user.
 ![1](https://github.com/JavaDevKKT/spring-security-app/assets/147974177/74d6e996-372f-4f51-b4b9-46518671c87e)
 ![2](https://github.com/JavaDevKKT/spring-security-app/assets/147974177/c1d4af7d-8c94-4f1a-b6a8-2a74e0627055)
 ![3](https://github.com/JavaDevKKT/spring-security-app/assets/147974177/7c6a7cdb-a26d-45b4-a7b3-3c0dadc494a1)
